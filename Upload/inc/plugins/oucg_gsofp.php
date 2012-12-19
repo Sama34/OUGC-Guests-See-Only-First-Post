@@ -45,7 +45,7 @@ function oucg_gsofp_info()
 	return array(
 		'name'			=> 'OUGC Guests See Only First Post',
 		'description'	=> 'Stops guests from seeing more that the first post of each thread.',
-		'website'		=> 'http://mods.mybb.com/view/disable-guests',
+		'website'		=> 'http://mods.mybb.com/view/ougc-guests-see-only-first-post',
 		'author'		=> 'Omar G.',
 		'authorsite'	=> 'http://community.mybb.com/user-25096.html',
 		'version'		=> '1.1',
